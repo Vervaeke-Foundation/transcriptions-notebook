@@ -1,0 +1,34 @@
+
+# exclude everything except personal directories
+/*
+!.gitignore
+!/data
+!/flaskr
+!/ipynb
+!/load_magic
+!/ps1
+!/py
+!/saves
+!/sh
+!/tests
+!Dockerfile
+!README.md
+!environment.yml
+!jupyter_notebook_config.py
+!workspace.json
+
+# Ignore whole folders
+**/.git/
+data/secrets/
+
+# Ignore whole file types
+*.mp3
+*.bin
+*-checkpoint.*
+*.bak
+
+# Exclude Mac, Jupyter, R, and Octave admin files
+**/octave-workspace
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.Rproj.user/
