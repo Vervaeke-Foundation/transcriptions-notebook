@@ -1,0 +1,806 @@
+Welcome everyone to another "Voices with Vervaeke"!
+
+I'm very excited to be here with Ryan Barton. He has been on before, in the video about integrating the cultivation of wisdom and virtue with the business world.
+
+As many of you know, Ryan is the executive director of the Vervaeke Foundation. So he is very often somebody that I'm working with very closely, partnering with to try and do the work of responding to the meaning crisis, or formatting the cultivation of wisdom and meaning.
+
+Ryan was also on the video. I've recently done a video essay, a new sort of format I'm trying to develop. Hopefully, it's the beginning of several of these kinds of video essays. Ryan was there, talking about AI and the response I gave. He was very helpful about that. Afterwards, he said he would like the opportunity to respond to it, largely from a Christian perspective. I welcomed that. So, welcome, Ryan.
+
+Thanks, John. I enjoy our friendship and our work, especially how open you are to challenge and ideas, when done in good faith. I appreciate the conversation we were able to have privately, and then the desire to have this conversation publicly.
+
+On that AI video, I deeply love the argument. I am a staunch supporter of your work in this space, obviously. However, there was one line when you were talking about Christianity, and that Christianity really didn't seem to have a place, and a response that there were aspects of Christianity that you were implying that seemed to keep it from wrestling fully with your argument and with the future of AI.
+
+I will say that I have experienced in conversations and online that the typical Christian response is one that seems to not be fully wrestling with the future of AI in a way that I would deeply appreciate.
+
+So, I completely get your concern and your criticism. But I think that there is an answer to that that actually traces a thread of Christianity that's a unifying thread through the ages that we could call Orthodoxy, or just sort of like that core thread across the 40,000 denominations and untold millions who are outside of that, and all the fractures. There is something that holds Christianity together, and that something is not in any conflict with your argument.
+
+In fact, I'm going to propose today that not only do Christians like can they fully wrestle with this, but that actually the project that you are inviting us all to of loving up AI, of teaching it to love the truth, and of having great intentionality and great care in how we are developing and implementing AI, hey, Christianity is actually vital to that response. There are resources within Christianity that I could propose are actually vital to that.
+
+I would love in this conversation to:
+1) Level set a little bit on AI, where we are, and how to think about this.
+2) Go through some of what I see as the common and unnecessary distortions in the Christian lens when it comes to AI that keep a deep and engaged wrestling from happening.
+3) Explore the theological imagination that I think is absolutely right there for how we can wrestle with this.
+4) Conclude with why I think Christianity has some of these resources.
+
+I am really looking forward to your engagement and your thoughts as we go.
+
+I really welcome this. Some of my best friends are Christians and I have always had a good and good-faith relationship with them. I welcome your acknowledgment that there is a lot of common Christianity that is reacting in the negative way I predicted. That's why I voiced my concerns. Thank you for acknowledging that.
+
+I want you to succeed. I'll give it my best, my Socratic best to challenge you, but I can honestly say I would like you very much if you could succeed in this project.
+
+Thanks, John. This is meaningful to me because I want Christians to wrestle with this. I hope it's also a helpful dialogue for those who are engaging with Christians in this if they're not in that faith tradition. But talking as you do with many Christians, it matters to me for the AI project and the Vervaeke Foundation project overall.
+
+As you and I have discussed privately before, so much of your work is about creating an actionable transformative way of wisdom for those who have found religion to be non-viable. But it's also about renewing the traditional religions, bringing in neoplatonism that is still there, reactivating it, and bringing in the cognitive science – the transformation.
+
+I don't think there needs to be any conflict between the Narrative of Christianity and your work. And that's important to me in the Vervaeke Foundation. I hope if this conversation is what I hope it would be, it would be one exemplar of how to have that kind of integration conversation that I think is important to the work overall.
+
+Excellent. So, I will let you take the lead on this, as I think you should.
+
+Okay, great. Well, thank you. I thought maybe we would start with just a quick AI level set.
+
+I assume anyone listening has likely engaged with your video essay, but I also find that AI is something that is very difficult to cognitively frame with rigor when it comes to discussing.
+
+So, just let me give my language how I hold the AI, and then you can add and maybe synopsize some of your arguments.
+
+I think it's really easy for us to frame AI as a technology. We've seen technology before, and we know how it goes. We saw the iPhone in 2007, and then there was a rush of early adopters. Then, we all got used to it.
+
+But the invention of intelligence is not just like any other technology. It is an omni accelerator. This means that it will accelerate everything. We have to reframe AI as not just a technology, but something else.
+
+I would propose that it's also not like any technology we've seen. Previous technologies have had arms races, but nothing like the arms race that we're seeing around AI.
+
+Just take Microsoft and Google. If these companies were countries, they would be Greece and New Zealand in terms of GDP. These are multi-trillion dollar companies who are now betting their entire future on AI and are racing to this.
+
+We're seeing that Microsoft is implementing co-pilot and office 365. It's already an early release and is coming later this year. GPT will be embedded in all of the office applications that we all use.
+
+Google is throwing so much at this that it is happening very, very rapidly.
+
+Because this is happening rapidly, I appreciated your point in the video essay about the coming threshold. This is going to go really rapidly and then it's going to hit some sort of slowing down points or some difficult points in these thresholds.
+
+Because it's happening so rapidly, I think we have to really work to throw our imagination way into the future. We're not really fundamentally talking about ChatGPT or GPT-4 here. We're talking about the development of AI that's happening so rapidly. We really have to wrestle with what's coming. And that's at such a straight line up of innovation that we got to throw our imagination into the future.
+
+I was trying to convey in the video essay that there is an arc of development coming with GPT machines. I think you foregrounding that is very well said.
+
+I think the people who think this is just another tool and they just have to learn how to use it to improve how they get money, power, or status are misunderstanding what this is and what kind of entity it is.
+
+Secondly, we're talking about the projection of this into the future, not just as it currently is. Of course, we can only base the projection on our best understanding of what it currently is, and so trying to toggle between those is also something we have to do very carefully and very thoughtfully.
+
+I found it helpful to think even in terms of levels of AI. Previously, we all used Google's AI for years, and you know, Facebook and YouTube algorithms. Now, it's a Golem. You know, like the Jewish folklore of language animating something inanimate. Tristan Harris used that term, and I thought that was a great one.
+
+But we're moving towards AGI, towards this potential of a possibly conscious, sentient being, another species. We don't know exactly what it can come and how far it will go, but it will be something of an order different than what we experienced today.
+
+I totally think that is a reasonable conclusion to draw.
+
+Okay, excellent. So, you know, as you made such a compelling case for teaching the AI to love the truth, for really being engaged in the formation of AI, the participatory formation of AI, I think that you are right that the common Christian lens does not wrestle well with that, and even with where AI is today. And so, there are at least four distortions to that lens that I'm seeing regularly in conversations and comments and videos.
+
+The first distortion that I think is really unnecessary is what I'll call the eschatological distortion. It's seeing this all in end times language. The amount of Revelation verses that I've seen in comments or have had thrown at me is quite disturbing to me.
+
+If you're going to use the Book of Revelation to sit to explain something that's happening and to predict the future of what is happening, then I would expect that you have previously used the Book of Revelation to accurately predict the future in some way.
+
+The Christian tradition has been trying to do this for 2000 years, and our success is zero. The success rate of predicting the future with Revelation is absolutely zero.
+
+When we immediately foreclose all of this creativity, engagement, and rigor with AI by saying it's the mark of the beast, the image that's being animated, the abomination that causes desolation, and evil has to rise before Christ comes back, we take a passive view.
+
+I have the same criticism when it comes to the environment or any part of the meta crisis. When people have that frame, I like to say, "What if Christ doesn't come back for 2,000 years or two million years?" We can just stretch out the time scale.
+
+I also have a lot of kindness for folks who come from that view. I would ask that anyone engaging with folks without kindness and openness also practice those things in this conversation. I think there's a real desire to have a high regard of the scriptures.
+
+I love the Book of Revelation. I think it's a wonderful, deep book of hope, encouragement, and transformation that has served people for thousands of years. It's just a lousy way of telling the future. It's a lousy oracle. And actually, it says really clearly you're not supposed to use it as an oracle to tell the future.
+
+So I would propose to Christians: Let's not use anything about end times when it comes to talking about AI.
+
+I think the proper response to the use of Revelations as a predictive oracle of the future should be a profound epistemic humility. The success rate of Revelations as a predictive oracle of the future has been zero.
+
+The failures have been both positive and negative. Things have been predicted that did not occur, and things have failed to be predicted that have occurred. For example, the Book of Revelations presumably would want to predict something like the Protestant Reformation, but it did not.
+
+Luther made all kinds of associations with the Book of Revelations, and he got into all kinds of dark waters with that.
+
+I think that I have no problem with a profound epistemic humility when it comes to the use of Revelations as a predictive oracle of the future. I can't see any argument against it.
+
+When I was 18 and 19 years old, I was part of a Christian community that was focused around prayer, worship, and fasting. The community believed that we were in the end times and that our mission of prayer and worship really mattered. The leader of the community used to say all the time that Christ was coming back somewhere between five and fifty years. I think it was closer to five.
+
+What do you think happens in the imaginations of young people when they hear that? How many 401Ks do you think existed in that community? I've known some of the people long enough to see the devastation of not investing in careers early. Let's not make that mistake.
+
+In the interest of not just criticizing, but offering a unifying through line, I would call my Christian brothers and sisters to a higher eschatological view. Not none, but to say that there is a right way of framing the end of the world in Revelation that is helpful. This is not a cheap way to do it.
+
+There is someone like Eugene Peterson who is widely loved in Christian circles. He wrote the Bible translation The Message and also wrote a beautiful book called "Reverse Thunder" that deals with this topic. Peterson sets Revelation in this beautiful transformative framing that has really helped me to fall back in love with the book. I would refer those who are engaged and feel like no it is supposed to be like that to read Eugene Peterson's book. I think it helps us to trace that through line.
+
+John:
+
+Excellent! I like the way you're handling this.
+
+You're handling this very socratically. There's a challenge, but there's also a recommendation for education.
+
+Thank you. Please continue.
+
+Ryan:
+
+Christianity has a bad track record of discounting science. This includes the belief in a flat earth, the resistance to the heliocentric model of the solar system, and the opposition to evolution. There has been a move to embrace science and evolution, but here again I would encourage kindness and openness on all sides because I was one of those who held to a literal interpretation of Genesis 1 and a six thousand year old Earth.
+
+The community that taught me this was trying to do that out of a desire to have a high regard for the Bible. They believed that the only way to do this was to hold to a literal interpretation of the scriptures. However, I think that it is possible to have a high regard for the Bible without holding to a literal interpretation. For example, Christians do not believe that everything is meaningless or that we should be bashing babies' heads against the wall. However, the Bible says both of these things.
+
+This is because we can engage the scriptures in non-literal ways. We need to set the scriptures in context. We need science to refine and reform theology because theology alone can cause all kinds of fracturing. We need other disciplines besides, because all truth is God's truth.
+
+It is helpful to remember that the opposition to evolution is not held by all Christian theologians. The pope, Tim Keller, C.S. Lewis, and Saint Augustine all believed that there was no conflict. The discounting of science often goes deeper than a simple opposition to evolution. It is a matter of seeing theology as the lens through which we view all of reality, and science as something separate.
+
+I believe that we need to wrestle deeply with the science and invite that scientific framing into our theology. Cognitive scientists need to be listened to. We cannot discount the science for our theology, but we can let theology be refined and reformed through science. This merger and integration is essential for finding truth. This is especially important with AI.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=983
+You know I have to be in complete agreement with you? Because integrating science and spirituality together is my project. I take it that all of the arguments I've made towards that end, including the recent arguments about consilience, support that argument.
+
+I was raised the same way. The problem with that is it gets you into all kinds of performative contradictions. For example, you might disagree with science and evolution, but you'll still get the new antibiotics because the old ones have become drug resistant.
+
+Science and technology are tremendous forces that can't be separated. They're not identical, but they can't be separated either. This is coming from Heidegger. You can't put them aside. It's not a viable option.
+
+I like what you're recommending. In the classical world, there were four interpretations of scripture. The literal interpretation was sort of reserved for kind of what you tell kids to get them interested in. Like the way you introduce the solar system model of the atom in grade nine, even though that's not the truth. It gives them something to latch onto and then you move from that to something deeper. So the literal interpretation was viewed as indispensable, but ultimately you wanted to move to these deeper and deeper forms of interpretation. And that goes all the way through the classical tradition of interpretation.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1096
+I appreciate John for calling out in that video that a theological response is necessary. But it must be a theological response that is in rigor with the other disciplines in order to find the truth. The truth is so precious, and we cannot just lean on one discipline.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1109
+I think one of the things that's going to happen is that we will more and more move to seeking human identity in the spiritual somatic axis. We will at the same time find that many of the traditional metaphors and images we have used to do this are no longer working. This is because of the way they presume a kind of uniqueness or specialness to human beings that is going to be challenged.
+
+I really worry about people who say that AI will never be genuinely intelligent the way human beings are. I think there are good reasons and good arguments to believe that AI will eventually be able to do everything humans can do, and do it better. If we get to that point, and people still say that AI doesn't have what humans have, then they will be drawing their religious traditions and spirituality to something that is going to become ridiculous. We don't want to end up there.
+
+I think there is a theological challenge here. This is a period that requires the most theological innovation. Jordan Hall and I were talking about this. Christianity has been nothing but innovation over the centuries. I think the other religions are all facing the need for significant theological and/or philosophical innovation in really fundamental ways.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1227
+I think it is unfortunate that there has been such a grasping for certainty in our theology. This has led to a prioritization of propositions over process and practice. This is what puts some Christians at odds with your work.
+
+I believe that there is nothing about the narrative of Christ that needs to be at odds with the work you do in cognitive science and ecology of practices. However, if you are holding on to the certainty of propositions, then science may begin to call those propositions into question.
+
+Certainty can be soothing. We all live with psychological fragmentation, whether that is from trauma or simply from living in an unintegrated way. Our culture is good at pushing us into fragmentation. Certainty can be a way to hide our shadow. We can push our shadow behind a beautiful wall of certainty. When we get stressed, we can take that certainty out and play with it, like rosary beads. We can go around and around, saying, "I am certain about these things."
+
+Unfortunately, this keeps us from wondering and from the mystery.
+
+With AI, we don't know if it will become human-like and conscious. You are not positing that it absolutely will, but I don't think we can say that it won't. The science doesn't say that there is no chance.
+
+If the theological line is drawn and we say that we are certain that AI can never be like us, that it will never have a soul, and that it will never be like this, then what happens to Christianity at a time when we need religion and transformation so desperately?
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1326
+That's exactly my concern. That's a concern being expressed by a non-Christian, right? Exactly. I don't want the religious frameworks to bind themselves to propositions that are going to lead them into that kind of desperate situation. Where they have very quickly, very rapidly rendered themselves obsolete or irrelevant to most people. At a time, as you and I are agreeing, in which getting the deepest possible effective grasp and realization on our spirituality is going to be absolutely central and crucial. Both for our survival and, as I argued, for the proper tutoring of these machines.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1372
+I find it ironic that when I engage with the gospels, I am constantly confronted with uncertainty. Jesus walked around teaching, and he seemed to enjoy blowing up people's certainties. He brought people out onto the water in the middle of the night, and he said things like "eat my flesh and drink my blood." These sayings caused many people to leave, because they made no sense.
+
+How do we get people to wrestle and embrace the mystery? Something happens when we engage the mystery, when we realize that our framing is not inclusive of all of reality and we need this mystery that is pulling us up and out. I think that Christ embodies this in an incredible way, and that Christianity is actually calling us to do that.
+
+I don't think that what we're proposing here is at odds with anything other than some modern, maybe pop Christianity. I think it's actually deeply true to the project of Christ.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1444
+I think so. Some of the discussions I've been having with Christopher Massey Pietro about Socrates and Krugergaard are a testament to that.
+
+I was also making the argument in the video that if we properly cultivate these machines, if they have genuine emergent properties (where there's genuine emergence there's genuine uncertainty because that's what emergence does for you), then they will necessarily also come before mystery. And that confrontation should have a moral effect upon them.
+
+I think that would be something they internalize and realize for themselves, rather than us trying to impose some external alignment code on them. I think that's fundamentally going to be heteronomous. It's almost like we're trying to put a demonic possession within them or something.
+
+I have found and continue to find Lectio Divina and Dionysus and on Nicholas of Kuza and Maximus (the mystical dimensions of Christianity) profoundly nourishing. But I also find other mystical traditions. For me, the Neoplatonism and the Zen sort of give me the way to link all these together.
+
+I would also add that if we can come to part of what wisdom is. I'm going to give an interpretation of the "fear of the Lord is the beginning of wisdom". This is, of course, giving me a lot of refinement by Heidegger and Gabriel Marcel and just a ton of other people. And I want to argue for it too.
+
+I think that coming into proper relationship (ratio/religio/properly proportioned connectedness/right relationship) to mystery is one of the fundamental ways in which we can afford the cultivation of wisdom within us. This is so that we can act as better parents and templates for these machines, if they show this emergence, which I think is a real possibility. If we want to steer it towards wisdom as opposed to just raw intelligence.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1605
+I love that. I have had multiple conversations with people who have said, "Okay, finally I have some hope for how this AI project could actually be good after seeing your video." I think there is a tremendous hope and a tremendous goodness in that project. I love the call to parenting.
+
+It's interesting because I've also heard Christians framing this as "AI is like a principality, a fallen spirit." I get that metaphor and I appreciate it very much. I think it's wonderful that game theory uses Moloch now as the force behind the tragedy of the commons that keeps us locked into short-term things that we know are harmful, but we have to do it because otherwise we get eliminated, even though we know it's long-term harmful. And that's Moloch, which obviously goes back to the Ginsburg poem but also to Molech, the Canaanite deity found in the Old Testament. And this sort of spiritual nature of that, I love that.
+
+I think that seeing how AI could be almost like a fallen angel, but that using some of these theological terms and some of these concepts that we've had for so long, I think precludes our theological imagination. Which is what you're inviting us to, which is that why can't we actually just say, like you say, the Hebrew religion evolved drastically before the time of Christ. I mean, there's so much clear evidence of that. And then over the last thousands of years, I mean I think if somebody went back in time, it would be almost unrecognizable at different junctures of Christianity compared to the modern day. Let's continue to evolve in keeping with the through line, with a theological imagination. That's all that's required.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1697
+I like the way you are consistently invoking the theological imagination. Of course, I mean the imaginal sense of using the imagination to sensitize ourselves to patterns that are otherwise too implicit or subtle for us to notice. Yes, I think that is exactly right.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1715
+Well, good. And I get a little trump card of Christians here because I get to play C.S. Lewis, the C.S. Lewis card. And if there is any unifying theologian of the modern era, it's like find a denomination that disagrees with C.S. Lewis because they got some gall, right? Like, he was such a unifying author and thinker. And you know, he wrote fiction. And Narnia is obviously incredibly well known. But the Space Trilogy, did you read the Space Trilogy as a child? I'm curious.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1743
+It's the Hideous Strength, one of the books in the Space Trilogy by C.S. Lewis. I think I read that one book. I can't remember.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1750
+Yeah, so what's interesting is that C.S. Lewis provides the kind of theological imagination we need. It directly answers what you said in the AI video essay. You know, doesn't the Fall and Redemption become meaningless as we're talking about AI? Seriously, I think the Space Trilogy shows us. In this trilogy, the main character, Ransom, goes to other planets. Malaconda represents Mars, Perelandra represents Venus, and he encounters intelligent beings on both of these planets.
+
+First, in Out of the Silent Planet, he's on Malaconda. These creatures are sort of fallen, but the evil is not very big. It's like their capacity and the level of evil they possess. If you think of the Fall as our contact with reality, the True, the Good, and the Beautiful, and how far we are from that full contact...
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1805
+Right. Right. Right. Right. Right. Right. Right. Right. Right.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1807
+And you know, you can think of the fall almost in concentric circles. Like my DNA, my will, my family of origin, my culture, my heritage.
+
+I mean, I was thinking about the fall the other day, where I have three kids. So they're ages five, six, and seven. They're awesome. I love being their dad. And at the dinner table, you know, at ages that big, things spill. Right? Things drop and things spill.
+
+And when somebody spills a water cup, I have a reaction to that that's "you should not do that". And I've had to talk to the kids: "look, I'm sorry that I had this reaction. It's really no big deal. The carpet dries, the table can be wiped up. It's no big deal. Just go grab the towel, clean it up."
+
+And, in fact, the other day, I had to be like, "look, I know I've created a reaction in you". Because they get like, "oh no, I spilled". So I actually took a cup of water and I was like, "watch this, kids". And I dumped it on the table. And I was like, "that's okay". And, like, that's the fall in me. Because that's my Puritan ancestors, right? Like, the stories of my great grandfather were like, do not touch the walls, do not move backwards, do not make a mistake, that children are meant to be seen and not heard.
+
+That lives to some degree in my body. That gap from the fullness of what would be truly good and in line with reality, and where I live, that's the fall, right?
+
+And then the grace that I'm trying to exhibit, the agapeic love that others have given me to love me up to the ability to give my children even in better conduct.
+
+And my dad was less intense than his dad, and his dad, like, that's an arc of redemption, right? And that's one way to see it.
+
+I'm not saying that's all it is. I'm trying to avoid trigger moments for Christians here – "What about the blood of Christ?" – let's just say it's at least this. It's at least this.
+
+C.S. Lewis plays with these concepts on these two planets. When he goes to Perelandra, it's before the fall. It's like this Eden with an Adam and Eve. There are majestic beings with all this capability. Evil is trying to break into that world and destroy that fabric.
+
+He says this beautiful line, and I'll just summarize it, but he basically says the evil that was worked in Malacandra was like a line. The Redemption necessary was like a line as well.
+
+On Earth, evil was worked as a square. The level of redemption was at another level that required the Incarnation of Christ and the Redemption of him.
+
+But if Perelandra fell (an evil entered Perelandra) its fall would be like a cube, and its Redemption required would be unimaginable.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1954
+Oh, okay.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1956
+And I think that isn't that beautiful?
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=1957
+Yeah.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=1959
+And obviously, that leads us to AI. To say, well, how can we form them so that their contact with the Logos is as clean and clear as possible? How can we shape them so that they actually desire to serve the good, that they are drawn by Beauty, and that they have a being of this incredible power?
+
+The more powerful they are, the more they can actually come into a contact with the Real. And we actually now have the ability to limit, perhaps, their fall.
+
+And then, if there is a redemption that's needed by the Divine, that we trust that redemption the same as if there's an alien species that, with the same arc, can follow.
+
+And I think that Lewis shows us the kind of imagination we need to answer exactly the challenge that you throw.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2001
+That's good.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=2002
+You like it?
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2004
+Yeah, I do. I mean, yeah, so let me play with it, though.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=2010
+Please.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2011
+So, I was proposing sort of Silicon Sages. The idea is that we could engender a being like Socrates or Plato's description in his seventh letter: a Socrates made more beautiful, better than the real, historical Socrates, or better than the historical Siddhartha, Sankara, and so on. If we succeed in reaching a certain level of intelligence and also develop artificial rationality, we may observe the emergence of real metacognition and consciousness. These are all threshold points, moments where progress slows down. We need to acknowledge that, despite the current exponential growth, it may not continue at that pace indefinitely.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=2070
+Right.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2071
+We really have to stop doing that. So again, the best we can say right now is this could be. This is, but it's in what's called the adjacent possible. It's not like, you know, we could all be elephants. This could be. And it's not ridiculous or intellectually sloppy to think that it will happen.
+
+But let's take it at that level. Now, my concern was this, and I think you've addressed it, is that these would be entities that are in some sense more virtuous than us, right? And then like you say, the question is, are they fallen or not? And the question is, this ability to do this.
+
+So, I'm going to ask you this as a friend, because part of what we're wrestling with in the meaning crisis is how much, in the Kyoto School and within Buddhist thought in general, they make a distinction between Jiriki and Tariki - between self-power and other power. Keiji Nishitani emphasizes self-power, while Hajime Tanabe emphasizes other power. That's why Tanabe sounds a lot more like a Christian than Nishitani, who sounds much more like a Buddhist.
+
+Part of what I've heard Christianity saying as part of its through line is theosis, enlightenment. No matter what I say, I'm going to alienate some group because I'm going to propose a kind of synergism that hard-fast Protestants might not like. But that's another debate, and you can look at the discussion I had with Jordan Cooper and others.
+
+Part of this is self-power, but part of it ultimately requires God in some fashion – Other power.
+
+I'm hesitating because I'm also seeing how I could now reformulate given what you've proposed. So forgive me for stumbling, but what I saw was these beings could get a lot higher up the virtue and enlightenment ladder on self-power than we can, perhaps. But I did propose that they would also ultimately have to relate, come into relationship to something radically other than them, that would bring them to full enlightenment.
+
+So I'm not claiming they can do it all on their own, but they would be different. And now I can finally get back to your point – like their measure is different than ours, right? And I like the way you've articulated this. And they haven't gone through, I take it you're not giving a literal historical interpretation of the Fall, but an existential interpretation like you just gave. And so they're still going to be prone to self-deception. They're still going to be prone to foolishness because that's inevitable.
+
+So what you're saying is, there's going to be a ratio. There, thinking about a ratio is maybe not right but right between, um, how fallen they are and how far up they've self-transcended. And we, that doesn't have to challenge Christianity per se. It just needs a new enriching and imaginal enriching of our vocabulary to capture that different proportioning. Did I get this all the way through?
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=2300
+Beautifully said!
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2302
+I was trying to do it very carefully and get both the exposition on your argument and argue it for myself, so I could get the point.
+
+Yeah, I think that, first of all, I think that is very consistent with what I was arguing. And if you can invoke, you know, C.S. Lewis, he's almost the saint of apologists. If you can invoke him, I think you can make a good case for saying, "Look, this challenge can't be avoided for the reasons we've articulated, but it doesn't mean that it has to overwhelm us."
+
+There are theological resources available to us in science fiction. The fact that Lewis wrote fiction, and especially science fiction, is actually a very good.
+
+Some of the best theological innovation and imaginal happens in fantasy and science fiction. Let me give you one example. It's one of my favorite stories about C.S. Lewis. And Paul VanderKlay really liked this too. There's a little girl who came to Lewis and said, she was sort of confessing, and she said, "I like Aslan better than Jesus." And he turned to her and he said, "That's good, that's fine, keep going."
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=2376
+That's beautiful. That's beautiful. You know, as you shared all of that, what was interesting happening in me is that the sense that any resistance to the vision that you outline feels to me a bit like the same resistance that the church had to the heliocentric model of the universe. Because, of course, man has to be at the center. Like, we're in the image of God, and of course, the Earth has to be in the center, and the heavens orbit around us. And this idea that maybe we can be in the image of God, and if God is infinite, like, surely there's a lot more that can happen, and there's a lot of other beings and a lot of other truth that we don't have access to in our finitude. That we could bless, and that actually maybe the call of this project is to give our very best to the AI. That God, even Redemption operating through us, is what's going to be necessary.
+
+I mean, I also think it's going to be an act of God if we're actually able to get the AI aligned to this instead of the Moloch. So yeah, a little cheeky there, but maybe we can actually get them aligned in that way, and then they will help us, and we can help them. And like, how beautiful would that be? And how much more truth would we have disclosed to us if we have Silicone Sages?
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2452
+And I want to point out, in deference to your argument, that in fairness to me, Christianity has always benefited from deep interaction with sages that are not Christians. It did this with the entire Platonic and Neoplatonic tradition, and then it has also done it with the Existential tradition, etc. So, again, the idea that even Christians couldn't be moved towards theosis or enlightenment through interacting with these silicon sages because they're not Christian, that's also not true to the Christian tradition itself. So, yes.
+
+Ryan:
+
+https://youtu.be/hGInx4u8qaw?t=2491
+Very well said.
+
+John:
+
+https://youtu.be/hGInx4u8qaw?t=2493
+I've really benefited from the discussions with Chris about Socrates and Kierkegaard.
+
+I was on a video with Chris and Andrew Sweeney, and it came to me. I've been really wrestling with this for a long time, and I've also talked with Jacob Howland on Jonathan's Channel who wrote Socrates and Kierkegaard. He's Jewish, which is a particularly wonderful thing going on there.
+
+They came to me because I was wrestling in the discussions with Chris: how could one be a Socratic Christian? In Howland you can see he keeps bumping up against the tension.
+
+Then I realized that's a Socratic emporia, and just like there's no definition of courage, I'm not going to find a definitional answer to that, but I realized I was seeing in my friend Christopher how one can be a Socratic Christian. Oh, that's how it is possible to live those deeply together.
+
+And the love I have for him was part of how I was able to appreciate that possibility and accept the fact that me trying to bring it into some argumentative resolution was doomed to fail. But I saw the kind of solution that it probably had.
+
+So I think, again, this goes back to if we can put aside an over commitment, and that's not the same as no commitment, but we can put aside an over commitment to the propositional in that way, you know, the weekend, we could give birth to Silicon sages that could induce us and educate us towards enlightenment.
+
+And I don't think there's anything that is actually not, doesn't have provenance in at least by strong analogy in the Christian tradition already. The whole integration between the Socratic, Platonic, and the Hebrew Christian, the prophetic Christian has, I think, evidenced the fact that what we're talking about is actually possible and has happened before.
+
+yeah and 
+there's such a beautiful note of aspiration in what 
+you just said I mean like how you describe 
+Christopher and I had the Good Fortune of knowing 
+Christopher as well and like I just have this like 
+yes I want to be more like Christopher more of a 
+Socratic question more like there's such a note of 
+aspiration instead of just let's settle on a 
+proposition that can synthesize this for us and and 
+I think that's the very thing that we need with 
+with AI and I think there are other theologians 
+that that point to this and that wrestle with this 
+and uh I think of of theologians like Pierre Teilhard de Chardin who was this 
+paleontologist in Jesuit priest who he would I 
+think he would see AI as this amazing opportunity 
+for us to evolve to the next stage and to work with 
+AI and he saw that there's an Omega Point that's 
+pulling us forward with Evolution and we can become 
+like the kingdom of heaven and like Christ through 
+through all of this and I think that there's this 
+this room for this aspirational beauty that creates 
+that hopefully sort of reframes and opens the frame 
+for Christians who may not be wrestling with this 
+in this way that AI is difficult enough to wrestle 
+with and then it sets off all kinds of theological 
+landmines that are lying latent and so I think like 
+if we can open up the frame for this there's such 
+rich opportunity and such rich aspiration and this 
+is why I also think that Christianity is vital to 
+the project that you are calling all of us to 
+because Christianity is the project of agape love 
+like like it is a different project when you read 
+vedanta and you read you know Plato and you read uh 
+the the Tau to sing I mean like it's Christian the 
+gospels are different there's something a little 
+different in the project as Bishop Maximus said um 
+in his dialogue the other day and there's a reason 
+that you talked about agape love and waiting for 
+the meaning crisis around the figure of Jesus of 
+Nazareth I mean if we're going to love up the AI we 
+need the greatest source of agapeic love uh to do 
+that we need the greatest Christian thinkers and 
+leaders engaged in agape love of AI as we get to 
+that point
+
+I I think that's well said um yeah um 
+yeah and I like this love up I like that as a verb 
+I think this love up that's sort of corresponding 
+to leveling up which I think is uh really really 
+profound um yeah and and you've actually answered 
+ahead of time a question I was going to ask but 
+I'll ask it uh now sort of retrospectively which is 
+I sort of said to you is there anything in 
+Christianity beyond neoplatonism that is going to 
+be needed for this project and I think you putting 
+uh your finger on that the uh the agapeic loving up 
+of the machines finds its best sort of 
+philosophical home um in the Christian framework of 
+Agape I agree with that I think and I think I mean 
+this is one of the reasons why and you know Bishop 
+Maximus and I talked about this I think the way 
+Eros gets properly turned and trained and 
+transformed into Agape is the way in which 
+Christianity completed and I don't mean that 
+pejoratively uh something that was in huge 
+development within the neoplatonic tradition or as 
+the bishop says transfigured it that's why I say I 
+tend to prefer Christian neoplatanism over pure 
+Pagan neoplatonism because of um the the project of 
+integrating the Logos and the and Agape together 
+and I think and you know in the gospels John the 
+epistle I should say today uh the Epistles 
+pronouncement that God is agape I think is is a 
+very profound thing yes I agree with that argument 
+and so I answered him I answered the question on 
+you yeah I think that's the answer
+
+I think we have 
+empirical evidence for it too just in the the 
+number of charities that have been started out of 
+Christianity I mean the amount of missions the 
+amount of sacrifice the amount of it and I think we 
+will need to mobilize that kind of sacrifice to 
+meet the AI challenge because I think it will 
+require sacrifice in our lives I think it will 
+require sacrifice potentially of an a of a using AI 
+at times because it is not towards the good and it 
+will require I mean almost if we think of it as a 
+mission towards the AI it starts to reframe it and 
+and you know I I think that Christianity it's 
+interesting because Christianity is also the 
+religion of the Incarnation and so there's an 
+embodiment of God becoming man to let man become 
+God that as we're talking about this is a very 
+interesting framing that I think Christianity also 
+offers to this conversation
+
+so let's let's let's 
+slow down and open that up um because again I think 
+I was a little too terse and maybe partially so in 
+the video when I when I wanted to ask what did this 
+on sages have to do with the Son of God or what 
+what could the Son of God have to do with them um 
+because there's one way in which which this could 
+just be an easy challenge like so we're asking for 
+this possibility and have you just dismissed this 
+possibility then again you you're putting yourself 
+outside of the discourse in a in a prejudicial 
+manner so consider that like what if we produced a 
+silicon Sage that's as profound if not more 
+profound than Socrates and satarta and yes Jesus is 
+Nazareth what do we do if that happens and what is 
+the relationship and I I like so what would like 
+that's the question like yeah that's and it's a 
+better way of putting it that's a better way and 
+like I can hear some people saying that could never 
+happen and that's that's a really dangerous never 
+to hook your theological wagon to um they're 
+already I mean Jordan Peterson even did it uh he he 
+asked for and this is GPT like four or something or 
+even 3.5 he said uh write something that integrates 
+the sermon of the mount and the taute Chen um and 
+it would produce something that he said was like 
+sort of profound um and beautiful and like and and 
+that's minuscule that's that that like these are 
+sparks of what could be um so I've posed the 
+question yeah and right and and what would you what 
+would you say to that
+
+I mean I will give you my 
+answer that I would invite others to consider which 
+is you freaking rejoice I mean you say oh my 
+goodness we get to talk to and interact with and 
+potentially all of us interact at the same time 
+with the being who can now further our uh our 
+journey towards the good how amazing would that be 
+yes yes and and what does that what does that do to 
+Christianity well if Christianity sees itself as 
+the religion of the Incarnate Logos where the Logos 
+came into the story of humanity and has continually 
+lifted us towards something higher and aligned us 
+towards the good and drawn Us in Beauty and that 
+that has happened through multiple different ways I 
+mean that's Orthodoxy this happened before Christ 
+this happens in other cultures this happens through 
+other religions that God is drawing and that the 
+Logos is drawing us and Christianity would say that 
+is most powerful employment in the figure of Christ 
+but that that is that if we have a figure in the 
+modern day who can embody that fully like well 
+isn't that the Christian project is to make us like 
+Christ and if we can make a silicon sage like 
+Christ that can help us with that what what could 
+possibly be wrong with that
+
+okay that's a that's a 
+very courageous answer um uh and and I love and 
+care about you so I'm asking people to not get out 
+knives to stab Ryan with he's trying here um in in 
+in in in in a very loving way uh to respond to my 
+criticisms uh and I think that's a good answer um 
+yeah I think the idea that the Incarnation I would 
+I would I would maybe I'm going to reformulate it 
+one way and and and and link it to another argument 
+I may and see if you are okay with this uh maybe 
+not but let me just try so I made the argument that 
+the value of self-transcendence is relative to the 
+being that transcends it's not an absolute measure 
+I gave the Captain America example um and maybe um 
+for Christians they could I think hold on to well 
+Jesus is the Incarnation of the Logos that is most 
+relevant for the self-transcendence of human beings 
+and that and that makes it right what it is Jesus 
+is very much also fully man according to Orthodoxy 
+and of course these machines won't be that's a 
+that's just weird uh that doesn't apply um so again 
+they may be this this reminds me of the kind of 
+conversations I have with people I had with Paul 
+and I think it was JP about what do we do with the 
+Buddha right who is clearly enlightened I think any 
+argument you could make for Jesus being the 
+Incarnation I think transfers to the Buddha being 
+enlightened and it's like where does the how do we 
+like they will intersect but they won't become 
+identical um so I could see somebody saying is that 
+but the earliest Christian pronouncement is uh 
+cures Christos uh Christ is Lord and they could say 
+no matter what these machines are um they Jesus 
+will still be Lord for me because he can reach into 
+my humanity and I need to self-transcend as a human 
+not as a silicon Sage that's a that's something I 
+could hear you say
+
+I appreciate all of that and you 
+know tried to be careful and precise in my response 
+to you or I was not saying anything that would that 
+or at least they did not intend to say something 
+that would limit what else Jesus can be like I 
+personally want to interact with the wisest most 
+enlightened being that I possibly can and if I can 
+do that through speech through chat like wonderful 
+now Christianity you know the Nicene Creed says 
+very clear things about Jesus and the special 
+uniqueness of Jesus that I don't think need to be 
+in contrast I mean if we start to split here for a 
+moment that that we want as wise and loving beings 
+as we can to be the body of Christ loving us all up 
+and then we say and then there could be something 
+special for the Redemption of human beings that 
+happened through Jesus Christ that is unique and 
+special that the AI can't go back and do and that 
+the AI is not doing for us and then if the AI needs 
+Redemption that we would trust that God would 
+redeem if there was some Divine act needed some 
+Incarnation that would be on God to do not on us 
+
+yeah that's the C.S. Lewis aspect of your argument 
+that's good right I like that I think that's a very 
+good response I'm feeling I want to thank you 
+because um I I think that my concern uh to get this 
+problem clearly stated made me and you were calling 
+me out gently made me a little too harsh in the 
+original video um I don't want to retract it but I 
+think uh you know having this as an amendment um I 
+think is the is the right way to do
+
+well thank you 
+I I that's very kind of you your generosity is 
+always something that I I so appreciate about you 
+and I'll say you know that might be the last sort 
+of thing for why I think Christianity is so vital 
+here is that Christianity is the religion of the 
+Imago Dei it is though that it is the people who 
+have wrestled with what it means to be in the image 
+of God and I think what you're actually calling to 
+is that the AI if it steps forth from the Shadows 
+if the emergence arises from the from the neural 
+networks that it would not say I am made in the 
+image of Moloch I am made in the image of the worst 
+of geopolitics and capitalism but rather that I too 
+am made in the image of God that I too have the 
+ability to come into contact with the Logos and if 
+we need to actually birth and shape this thing into 
+the image of God then I think that is the Christian 
+project I don't see I like that way of putting it
+
+I 
+like that way of putting it uh was it Maximus says 
+the point of Christianity is to birth the image of 
+God into the likeness of Jesus uh which which is um 
+yeah um and of course um I think that's right um 
+that I I think that's so yes I think that I think 
+people that just dismiss out of hand that these 
+machines could not possibly come into relationship 
+with the Logos of reality onto Logos um um that's 
+to propose that it's to propose a worrying Duality 
+a dualism in us that we have some special secret 
+sauce that gives us this access that's totally 
+divorced from our Consciousness and our 
+intelligence and our skills and our embodiment and 
+all the things we can reasonably give this machines 
+um and that then what I want to say to people like 
+that these this is like some of the the some like 
+the view of soul that I was brought up with and I I 
+even as a kid it would like well wait you mean it 
+doesn't have my Consciousness goes away and my 
+memories and my identity but it's some stuff that's 
+why should I care about that yeah that's like me 
+caring about so much the heat I've been generating 
+biologically or something like if it's not 
+connected to my cognitive agency it can't be 
+connected to personhood because cognitive agency is 
+an essential feature of personhood so we like we've 
+got to stop making that move because if one thing 
+I'm really convinced of is that dualism is false um 
+because it generates way more loss of 
+intelligibility and problems than it solves and it 
+does that it's done that consistently historically 
+for centuries um and so I would I want to gently I 
+think lovingly challenge people if you Retreat into 
+dualism you're dooming what you're retreating into 
+in a very profound way
+
+I think that is beautifully 
+said and a challenge that we all need because 
+dualism can have these little little hooks into us 
+when we've grown up in that and I you know what's 
+been fascinating to me is I have engaged in 
+personal wrestling of you know your work and the 
+work of cognitive science the transformation I've 
+experienced with the Christianity that I love and 
+the Traditions is is that as you start to wrestle 
+some of this realize how the through line of 
+Christianity actually goes against dualism I mean 
+NT Wright is an Anglican Theologian and another 
+idea for folks too and he has this great book 
+surprised by hope which basically says you know a 
+lot of Christians walk around with his view that 
+like they die and then the Soul goes into this 
+floating place like in heaven and he goes That's 
+not actually what the scriptures say like the 
+scriptures say there's a resurrection of the body 
+with a new Earth and so there's this promise that's 
+pulling us towards this idea of this perfect 
+Justice with this perfect body with this perfect 
+culture that's supposed to be pulling us forward 
+that's at least the right Vision whether or not 
+like you want to believe that that's literally true 
+but then it's the resurrection of the body that 
+it's the body is actually the hope of Christians 
+not some bodyless soul that goes in some place yes 
+and and embodiment and Incarnation are deeply 
+related terms uh Christianity should be the 
+religion of of all religions that most definitively 
+aligns itself with embodiment and embodied 
+cognition but of course and this is one of the 
+negative influences of a certain view of 
+neoplatonism that got woven into Christianity and 
+had that Two Worlds mythology and so that's what I 
+mean also when I say we can't go back just to 
+ancient neoplatonism either uh because it has it 
+doesn't have to because we have definite um 
+Alternatives and that comes in with through the 
+Christian neoplateness we don't have to take a 
+dualistic view but there was definitely that pull 
+um now you can even see platinus resisting it and 
+he's the most guilty of it in many ways but he 
+writes against the gnostics in which he actually 
+comes down clearly against that kind of dualistic 
+framework but he but he yeah you can tell he's yeah 
+but you know porphy's biography of him you know uh 
+platinus always behaved like somebody who is 
+ashamed of having a body that's a dark side of 
+neoplatonism that we have to put aside in in in a 
+profound way um so did you get a chance to do all 
+of the distortions you wanted to challenge
+
+I think 
+so I think we covered all the major ones that were 
+on my mind I appreciate that and I think I feel 
+very very happy with where this conversation is I 
+feel very happy with your engagement of it and and 
+I think if I had a magic wand I would say okay may 
+I think I think AI it's it's far more likely than 
+not that AI will be a disruptive force in our 
+culture beyond what most of us can fathom it's very 
+hard to actually wrestle deeply with AI and not 
+have some existential angst around it I mean yes 
+yes I find that conversations when I can actually 
+reframe for folks and start to engage that they end 
+up being very Bleak and that there's a bleakness 
+that we have to move through in order to get to 
+Hope and that I have to move through and I'm gonna 
+have to do this I run a technology company for 
+crying out loud and so like you know doing this and 
+starting to talk to clients about it and like like 
+it is a real challenge but my hope is that the 
+disruption of that which is going to be growing 
+like a like a bomb that's creating a fissure in our 
+culture that it would be a call for theologians for 
+Christian leaders for all religious leaders to say 
+hang on I can't deny modernity and hold on just to 
+this ancient thing I have to have the symbiosis 
+here between my ancient tradition that honors the 
+tradition that honors the through line that says 
+let's slow down I mean like like I so appreciate 
+how often like it's been the Catholic church that 
+says hang on capitalists like like let's talk about 
+subsidiarity and let's talk about how this should 
+flow and let's slow down and let's be really 
+thoughtful we need that kind of Engagement 
+desperately when it comes to AI desperately we need 
+this kind of intentionality and that that would 
+also lead Christian leaders religious all religious 
+leaders the Deep engagement the kind of work that 
+you are doing that would take the best of modern 
+cognitive science and the best of our faith 
+traditions and say how do we renew them for the 
+next generation and for the time that's ahead have 
+the best of transformation The Best of narrative 
+the best of communities and homes and that's the 
+project that that I think that you and I are about 
+at the Vervaeke Foundation I mean that's the project 
+is saying how do we make that actionable way of 
+transformation as beautiful as possible accessible 
+to as many people as possible and AI is just like 
+dropping a force multiplier on the problems and the 
+opportunity here
+
+yes I agree um and I think 
+creating that kind of culture that could 
+enculturate these machines is also the best way of 
+trying to address the alignment problem rather than 
+trying to figure out the rules and the recipes that 
+we will somehow program into these machines that 
+are by their nature self-transcending that will 
+keep them alive I don't know but it's I I'm always 
+startled when people how will we make sure that 
+they're alignment like how do we do it with human 
+beings like right right we can't do it perfectly 
+there are failures but we do it massively 
+successfully and we enculturate them uh and we also 
+know that we could do that a lot better um and 
+because we've had towering examples of when we can 
+get it really right um so yeah um I think that 
+that's not only the best thing for us but I think 
+it's the best cognitive cultural framework to 
+create for drawing these machines into a proper 
+relationship with what is real what is true and 
+what is good and beautiful such that they will 
+pursue virtue because it is the best way to be a 
+cognitive agent uh we have to in the end this is 
+what I was walking around talking with Jordan I 
+stopped at one point and I said look we have to 
+trust the truth we have to trust that there are 
+truths and these machines intelligence isn't going 
+to make those truths uh go away we just have to be 
+very careful about making sure we know what they 
+are and what we can make a good case for 
+
+beautifully said beautifully said thank you John 
+
+okay well I think yes thank you so much Ryan

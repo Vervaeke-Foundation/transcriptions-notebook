@@ -97,6 +97,32 @@ class TranscriptionUtilities(object):
 
         # Handy list of the different types of encodings
         self.encoding_type = ['latin1', 'iso8859-1', 'utf-8'][2]
+
+    def save_transcript(self, video_id, file_name=None):
+        self.ensure_module_installed('youtube-transcript-api', upgrade=True, verbose=False)
+        from youtube_transcript_api import YouTubeTranscriptApi
+
+        # Get the transcription for the video
+        transcript_dicts_list = YouTubeTranscriptApi.get_transcript(video_id)
+        transcript_str = ' '.join([transcript_dict['text'] for transcript_dict in transcript_dicts_list]).lower().strip()
+
+        # Get the filepath
+        if file_name is None:
+            file_name = video_id
+        if not file_name.endswith('.txt'):
+            file_name = f'{file_name}.txt'
+        import re
+        file_name = re.sub('[^A-Za-z0-9\.]+', '_', file_name)
+        file_path = os.path.join(self.saves_text_folder, file_name)
+
+        # Print transcript to file
+        with open(file_path, 'w') as f:
+            print(transcript_str, file=f)
+
+        # Open in Notepad++
+        text_editor_path = 'C:\\Program Files\\Notepad++\\notepad++.exe'
+        command_str = f'"{text_editor_path}" "{file_path}"'
+        output_str = subprocess.check_output(command_str.split(' '))
     
     def similar(self, a: str, b: str) -> float:
         """
